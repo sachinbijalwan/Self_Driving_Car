@@ -1,4 +1,4 @@
-This is a project for predicting the steering angle with the behavioral cloning of a car given a image.
+This is a project for predicting the steering angle of a car with the help of behavioral cloning given an input image.
 
 The data for this project is taken from https://github.com/udacity/CarND-Behavioral-Cloning-P3
 
